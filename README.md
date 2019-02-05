@@ -1,2 +1,2 @@
-# Criando-um-site-com-Bootstrap-4
-Arquivos do curso Criando um site com Bootstrap 4.
+# borevents
+Rede Social para a divulgação de eventos.
