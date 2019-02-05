@@ -1,2 +1,2 @@
-# borevents
-Rede Social para a divulgação de eventos.
+# BorEvents
+Rede social desenvolvida em PHP, JavaScript, HTML e CSS, consiste na divulgação de eventos. Para isto foi utilizado o fremework Bootstrap
