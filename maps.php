@@ -144,7 +144,7 @@
          
         <script src="js/script.js"></script>
         <script src="js/script-maps.js"></script>
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC0rooq9Gl_LsNW7Ry6T4uDyNqFz8ouM7w&callback=initMap"></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key={YOUR API GOOGLE KEY}=initMap"></script>
 
     </footer>
 </html>
